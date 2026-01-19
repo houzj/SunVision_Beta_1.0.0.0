@@ -1,0 +1,4 @@
+c:\Users\houzhongjie\CodeBuddy\20260119143126\obj\Debug\net9.0\20260119143126.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\houzhongjie\CodeBuddy\20260119143126\obj\Debug\net9.0\20260119143126.AssemblyInfoInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\obj\Debug\net9.0\20260119143126.AssemblyInfo.cs
+c:\Users\houzhongjie\CodeBuddy\20260119143126\obj\Debug\net9.0\20260119143126.csproj.CoreCompileInputs.cache

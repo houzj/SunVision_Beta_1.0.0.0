@@ -1,0 +1,15 @@
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Algorithms.deps.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Algorithms.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Algorithms.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Core.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Core.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.csproj.AssemblyReference.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.AssemblyInfoInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.AssemblyInfo.cs
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.csproj.CoreCompileInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMa.FA73670C.Up2Date
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\refint\VisionMaster.Algorithms.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\ref\VisionMaster.Algorithms.dll

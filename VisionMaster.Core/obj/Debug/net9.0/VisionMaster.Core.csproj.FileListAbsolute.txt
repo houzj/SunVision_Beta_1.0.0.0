@@ -1,0 +1,11 @@
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.deps.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.AssemblyInfoInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.AssemblyInfo.cs
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.csproj.CoreCompileInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\refint\VisionMaster.Core.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\ref\VisionMaster.Core.dll
