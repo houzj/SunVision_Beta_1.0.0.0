@@ -1,15 +1,32 @@
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.AssemblyInfoInputs.cache
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.AssemblyInfo.cs
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.csproj.CoreCompileInputs.cache
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.csproj.AssemblyReference.cache
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.PluginSystem.deps.json
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.PluginSystem.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.PluginSystem.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.Core.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.Core.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.csproj.AssemblyReference.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.AssemblyInfoInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.AssemblyInfo.cs
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.csproj.CoreCompileInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.sourcelink.json
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMa.937FC702.Up2Date
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\refint\VisionMaster.PluginSystem.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.PluginSystem\obj\Debug\net9.0\ref\VisionMaster.PluginSystem.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.PluginSystem.deps.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.PluginSystem.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.PluginSystem.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.Core.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\bin\Debug\net9.0\VisionMaster.Core.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.csproj.AssemblyReference.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.AssemblyInfoInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.AssemblyInfo.cs
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.csproj.CoreCompileInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.sourcelink.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMa.937FC702.Up2Date
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\refint\VisionMaster.PluginSystem.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\VisionMaster.PluginSystem.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.PluginSystem\obj\Debug\net9.0\ref\VisionMaster.PluginSystem.dll

@@ -1,3 +1,5 @@
+using System;
+
 namespace VisionMaster.Interfaces
 {
     /// <summary>
@@ -24,10 +26,5 @@ namespace VisionMaster.Interfaces
         /// 记录错误
         /// </summary>
         void LogError(string message, Exception? exception = null);
-
-        /// <summary>
-        /// 记录错误
-        /// </summary>
-        void LogError(string message, string? exception = null);
     }
 }

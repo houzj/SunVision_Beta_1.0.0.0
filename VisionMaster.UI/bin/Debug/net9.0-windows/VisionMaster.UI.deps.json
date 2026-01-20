@@ -7,14 +7,98 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "VisionMaster.UI/1.0.0": {
+        "dependencies": {
+          "VisionMaster.Algorithms": "1.0.0",
+          "VisionMaster.Core": "1.0.0",
+          "VisionMaster.DeviceDriver": "1.0.0",
+          "VisionMaster.PluginSystem": "1.0.0",
+          "VisionMaster.Workflow": "1.0.0"
+        },
         "runtime": {
           "VisionMaster.UI.dll": {}
+        }
+      },
+      "VisionMaster.Algorithms/1.0.0": {
+        "dependencies": {
+          "VisionMaster.Core": "1.0.0"
+        },
+        "runtime": {
+          "VisionMaster.Algorithms.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VisionMaster.Core/1.0.0": {
+        "runtime": {
+          "VisionMaster.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VisionMaster.DeviceDriver/1.0.0": {
+        "dependencies": {
+          "VisionMaster.Core": "1.0.0"
+        },
+        "runtime": {
+          "VisionMaster.DeviceDriver.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VisionMaster.PluginSystem/1.0.0": {
+        "dependencies": {
+          "VisionMaster.Core": "1.0.0"
+        },
+        "runtime": {
+          "VisionMaster.PluginSystem.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VisionMaster.Workflow/1.0.0": {
+        "dependencies": {
+          "VisionMaster.Core": "1.0.0"
+        },
+        "runtime": {
+          "VisionMaster.Workflow.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "VisionMaster.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VisionMaster.Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VisionMaster.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VisionMaster.DeviceDriver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VisionMaster.PluginSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VisionMaster.Workflow/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

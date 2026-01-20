@@ -1,23 +1,76 @@
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.exe
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.deps.json
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.runtimeconfig.json
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.dll
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.pdb
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow.g.cs
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\App.g.cs
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI_MarkupCompile.cache
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI_MarkupCompile.lref
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow.baml
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.g.resources
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.AssemblyInfoInputs.cache
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.AssemblyInfo.cs
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.csproj.CoreCompileInputs.cache
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.dll
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\refint\VisionMaster.UI.dll
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.pdb
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.genruntimeconfig.cache
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\ref\VisionMaster.UI.dll
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\Resources\AppResources.baml
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.csproj.AssemblyReference.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow_Simple.baml
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow.g.cs
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow_Simple.g.cs
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\App.g.cs
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI_MarkupCompile.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI_MarkupCompile.lref
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.exe
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.deps.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.runtimeconfig.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Algorithms.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Core.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.DeviceDriver.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.PluginSystem.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Workflow.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Core.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Algorithms.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Workflow.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.DeviceDriver.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.PluginSystem.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\App.baml
-C:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.sourcelink.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow.baml
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\Resources\AppResources.baml
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.g.resources
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.AssemblyInfoInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.AssemblyInfo.cs
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.csproj.CoreCompileInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.sourcelink.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMa.1A90FA68.Up2Date
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\refint\VisionMaster.UI.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.genruntimeconfig.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.UI\obj\Debug\net9.0-windows\ref\VisionMaster.UI.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.exe
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.deps.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.runtimeconfig.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.UI.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Algorithms.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Core.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.DeviceDriver.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.PluginSystem.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Workflow.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Core.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Algorithms.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.Workflow.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.DeviceDriver.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\bin\Debug\net9.0-windows\VisionMaster.PluginSystem.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.csproj.AssemblyReference.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow_Simple.baml
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow_Simple.g.cs
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\App.g.cs
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI_MarkupCompile.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI_MarkupCompile.lref
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\App.baml
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\MainWindow.baml
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\Resources\AppResources.baml
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.g.resources
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.AssemblyInfoInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.AssemblyInfo.cs
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.csproj.CoreCompileInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.sourcelink.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMa.1A90FA68.Up2Date
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\refint\VisionMaster.UI.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\VisionMaster.UI.genruntimeconfig.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.UI\obj\Debug\net9.0-windows\ref\VisionMaster.UI.dll

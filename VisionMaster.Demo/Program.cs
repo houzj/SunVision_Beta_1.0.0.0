@@ -5,7 +5,8 @@ using VisionMaster.Models;
 using VisionMaster.DeviceDriver;
 using VisionMaster.Algorithms;
 using VisionMaster.Workflow;
-using VisionMaster.Core.Services;
+using VisionMaster.Services;
+using VisionMaster.PluginSystem;
 
 namespace VisionMaster.Demo
 {
@@ -48,8 +49,7 @@ namespace VisionMaster.Demo
                 Console.WriteLine($"详细错误: {ex}");
             }
 
-            Console.WriteLine("\n按任意键退出...");
-            Console.ReadKey();
+            Console.WriteLine("\n演示完成！");
         }
 
         static async Task TestDeviceManagement(ILogger logger)
@@ -123,15 +123,24 @@ namespace VisionMaster.Demo
         {
             var pluginLoader = new PluginLoader(logger);
             
-            // 加载插件
-            var plugins = pluginLoader.LoadPlugins("./plugins");
-            Console.WriteLine($"✅ 插件加载完成: {plugins.Count} 个插件");
-
-            // 获取插件信息
-            var pluginInfos = pluginLoader.GetPluginInfos();
-            foreach (var info in pluginInfos)
+            // 加载插件（如果存在插件目录）
+            if (Directory.Exists("./plugins"))
             {
-                Console.WriteLine($"   - {info.PluginName} (v{info.Version})");
+                pluginLoader.LoadPluginsFromDirectory("./plugins");
+            }
+            else
+            {
+                Console.WriteLine("ℹ️ 插件目录不存在，跳过插件加载测试");
+            }
+
+            // 获取所有插件
+            var plugins = pluginLoader.GetAllPlugins();
+            Console.WriteLine($"✅ 已加载 {plugins.Count} 个插件");
+
+            // 显示插件信息
+            foreach (var plugin in plugins)
+            {
+                Console.WriteLine($"   - {plugin.Name} (v{plugin.Version})");
             }
 
             Console.WriteLine("🔌 插件系统模块测试完成");

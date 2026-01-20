@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisionMaster.PluginSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+351c4976eb43db8328861b318e1f67216aebe711")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd65f28db472acc0bd7d26dcebeb74145e4fdea")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisionMaster.PluginSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisionMaster.PluginSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

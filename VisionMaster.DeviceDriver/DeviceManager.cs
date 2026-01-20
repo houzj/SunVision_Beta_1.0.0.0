@@ -85,7 +85,7 @@ namespace VisionMaster.DeviceDriver
             }
 
             Logger.LogInfo($"检测完成，共发现 {devices.Count} 个设备");
-            
+
             await Task.CompletedTask;
             return devices;
         }
@@ -94,7 +94,7 @@ namespace VisionMaster.DeviceDriver
         {
             if (!_registeredDrivers.TryGetValue(deviceId, out var driver))
             {
-                Logger.LogError($"设备驱动不存在: {deviceId}", "Device not found");
+                Logger.LogError($"设备驱动不存在: {deviceId}");
                 await Task.CompletedTask;
                 return false;
             }
@@ -117,7 +117,7 @@ namespace VisionMaster.DeviceDriver
         {
             if (!_registeredDrivers.TryGetValue(deviceId, out var driver))
             {
-                Logger.LogError($"设备驱动不存在: {deviceId}", "Device not found");
+                Logger.LogError($"设备驱动不存在: {deviceId}");
                 await Task.CompletedTask;
                 return false;
             }
@@ -140,14 +140,14 @@ namespace VisionMaster.DeviceDriver
         {
             if (!_registeredDrivers.TryGetValue(deviceId, out var driver))
             {
-                Logger.LogError($"设备驱动不存在: {deviceId}", "Device not found");
+                Logger.LogError($"设备驱动不存在: {deviceId}");
                 await Task.CompletedTask;
                 return null;
             }
 
             if (!driver.IsConnected)
             {
-                Logger.LogError($"设备未连接: {deviceId}", "Device not connected");
+                Logger.LogError($"设备未连接: {deviceId}");
                 await Task.CompletedTask;
                 return null;
             }

@@ -1,17 +1,289 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.UI\\VisionMaster.UI.csproj": {}
+    "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.UI\\VisionMaster.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.UI\\VisionMaster.UI.csproj": {
+    "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Algorithms\\VisionMaster.Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.UI\\VisionMaster.UI.csproj",
-        "projectName": "VisionMaster.UI",
-        "projectPath": "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.UI\\VisionMaster.UI.csproj",
+        "projectUniqueName": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Algorithms\\VisionMaster.Algorithms.csproj",
+        "projectName": "VisionMaster.Algorithms",
+        "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Algorithms\\VisionMaster.Algorithms.csproj",
         "packagesPath": "C:\\Users\\houzhongjie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.UI\\obj\\",
+        "outputPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Algorithms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houzhongjie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj": {
+                "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj",
+        "projectName": "VisionMaster.Core",
+        "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj",
+        "packagesPath": "C:\\Users\\houzhongjie\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houzhongjie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.DeviceDriver\\VisionMaster.DeviceDriver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.DeviceDriver\\VisionMaster.DeviceDriver.csproj",
+        "projectName": "VisionMaster.DeviceDriver",
+        "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.DeviceDriver\\VisionMaster.DeviceDriver.csproj",
+        "packagesPath": "C:\\Users\\houzhongjie\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.DeviceDriver\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houzhongjie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj": {
+                "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.PluginSystem\\VisionMaster.PluginSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.PluginSystem\\VisionMaster.PluginSystem.csproj",
+        "projectName": "VisionMaster.PluginSystem",
+        "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.PluginSystem\\VisionMaster.PluginSystem.csproj",
+        "packagesPath": "C:\\Users\\houzhongjie\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.PluginSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houzhongjie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj": {
+                "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.UI\\VisionMaster.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.UI\\VisionMaster.UI.csproj",
+        "projectName": "VisionMaster.UI",
+        "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.UI\\VisionMaster.UI.csproj",
+        "packagesPath": "C:\\Users\\houzhongjie\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,7 +303,23 @@
         "frameworks": {
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Algorithms\\VisionMaster.Algorithms.csproj": {
+                "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Algorithms\\VisionMaster.Algorithms.csproj"
+              },
+              "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj": {
+                "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj"
+              },
+              "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.DeviceDriver\\VisionMaster.DeviceDriver.csproj": {
+                "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.DeviceDriver\\VisionMaster.DeviceDriver.csproj"
+              },
+              "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.PluginSystem\\VisionMaster.PluginSystem.csproj": {
+                "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.PluginSystem\\VisionMaster.PluginSystem.csproj"
+              },
+              "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Workflow\\VisionMaster.Workflow.csproj": {
+                "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Workflow\\VisionMaster.Workflow.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -66,6 +354,75 @@
             },
             "Microsoft.WindowsDesktop.App.WPF": {
               "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Workflow\\VisionMaster.Workflow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Workflow\\VisionMaster.Workflow.csproj",
+        "projectName": "VisionMaster.Workflow",
+        "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Workflow\\VisionMaster.Workflow.csproj",
+        "packagesPath": "C:\\Users\\houzhongjie\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Workflow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\houzhongjie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj": {
+                "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"

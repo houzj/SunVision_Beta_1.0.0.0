@@ -1,11 +1,106 @@
 {
   "version": 3,
   "targets": {
-    "net9.0-windows7.0": {}
+    "net9.0-windows7.0": {
+      "VisionMaster.Algorithms/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "VisionMaster.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VisionMaster.Algorithms.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VisionMaster.Algorithms.dll": {}
+        }
+      },
+      "VisionMaster.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/VisionMaster.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VisionMaster.Core.dll": {}
+        }
+      },
+      "VisionMaster.DeviceDriver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "VisionMaster.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VisionMaster.DeviceDriver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VisionMaster.DeviceDriver.dll": {}
+        }
+      },
+      "VisionMaster.PluginSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "VisionMaster.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VisionMaster.PluginSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VisionMaster.PluginSystem.dll": {}
+        }
+      },
+      "VisionMaster.Workflow/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "VisionMaster.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VisionMaster.Workflow.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VisionMaster.Workflow.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "VisionMaster.Algorithms/1.0.0": {
+      "type": "project",
+      "path": "../VisionMaster.Algorithms/VisionMaster.Algorithms.csproj",
+      "msbuildProject": "../VisionMaster.Algorithms/VisionMaster.Algorithms.csproj"
+    },
+    "VisionMaster.Core/1.0.0": {
+      "type": "project",
+      "path": "../VisionMaster.Core/VisionMaster.Core.csproj",
+      "msbuildProject": "../VisionMaster.Core/VisionMaster.Core.csproj"
+    },
+    "VisionMaster.DeviceDriver/1.0.0": {
+      "type": "project",
+      "path": "../VisionMaster.DeviceDriver/VisionMaster.DeviceDriver.csproj",
+      "msbuildProject": "../VisionMaster.DeviceDriver/VisionMaster.DeviceDriver.csproj"
+    },
+    "VisionMaster.PluginSystem/1.0.0": {
+      "type": "project",
+      "path": "../VisionMaster.PluginSystem/VisionMaster.PluginSystem.csproj",
+      "msbuildProject": "../VisionMaster.PluginSystem/VisionMaster.PluginSystem.csproj"
+    },
+    "VisionMaster.Workflow/1.0.0": {
+      "type": "project",
+      "path": "../VisionMaster.Workflow/VisionMaster.Workflow.csproj",
+      "msbuildProject": "../VisionMaster.Workflow/VisionMaster.Workflow.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0-windows7.0": []
+    "net9.0-windows7.0": [
+      "VisionMaster.Algorithms >= 1.0.0",
+      "VisionMaster.Core >= 1.0.0",
+      "VisionMaster.DeviceDriver >= 1.0.0",
+      "VisionMaster.PluginSystem >= 1.0.0",
+      "VisionMaster.Workflow >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\houzhongjie\\.nuget\\packages\\": {},
@@ -14,11 +109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.UI\\VisionMaster.UI.csproj",
+      "projectUniqueName": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.UI\\VisionMaster.UI.csproj",
       "projectName": "VisionMaster.UI",
-      "projectPath": "c:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.UI\\VisionMaster.UI.csproj",
+      "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.UI\\VisionMaster.UI.csproj",
       "packagesPath": "C:\\Users\\houzhongjie\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.UI\\obj\\",
+      "outputPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,7 +133,23 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Algorithms\\VisionMaster.Algorithms.csproj": {
+              "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Algorithms\\VisionMaster.Algorithms.csproj"
+            },
+            "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj": {
+              "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj"
+            },
+            "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.DeviceDriver\\VisionMaster.DeviceDriver.csproj": {
+              "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.DeviceDriver\\VisionMaster.DeviceDriver.csproj"
+            },
+            "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.PluginSystem\\VisionMaster.PluginSystem.csproj": {
+              "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.PluginSystem\\VisionMaster.PluginSystem.csproj"
+            },
+            "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Workflow\\VisionMaster.Workflow.csproj": {
+              "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Workflow\\VisionMaster.Workflow.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

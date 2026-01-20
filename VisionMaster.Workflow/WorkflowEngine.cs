@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Text.Json;
 using VisionMaster.Interfaces;
 using VisionMaster.Models;
@@ -114,7 +115,7 @@ namespace VisionMaster.Workflow
             var workflow = GetWorkflow(workflowId);
             if (workflow == null)
             {
-                Logger.LogError($"工作流不存在: {workflowId}", "Workflow not found");
+                Logger.LogError($"工作流不存在: {workflowId}");
                 return new List<AlgorithmResult> { AlgorithmResult.CreateError($"工作流不存在: {workflowId}") };
             }
 
@@ -129,7 +130,7 @@ namespace VisionMaster.Workflow
         {
             if (CurrentWorkflow == null)
             {
-                Logger.LogError("当前没有活动的工作流", "No active workflow");
+                Logger.LogError("当前没有活动的工作流");
                 return new List<AlgorithmResult> { AlgorithmResult.CreateError("当前没有活动的工作流") };
             }
 

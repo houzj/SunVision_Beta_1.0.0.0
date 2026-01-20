@@ -49,13 +49,5 @@ namespace VisionMaster.Services
                 : message;
             WriteLog("ERROR", fullMessage, ConsoleColor.Red);
         }
-
-        public void LogError(string message, string? exception = null)
-        {
-            var fullMessage = exception != null
-                ? $"{message}{Environment.NewLine}Exception: {exception}"
-                : message;
-            WriteLog("ERROR", fullMessage, ConsoleColor.Red);
-        }
     }
 }

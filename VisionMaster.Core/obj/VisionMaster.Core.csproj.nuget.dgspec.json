@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.Core\\VisionMaster.Core.csproj": {}
+    "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.Core\\VisionMaster.Core.csproj": {
+    "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.Core\\VisionMaster.Core.csproj",
+        "projectUniqueName": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj",
         "projectName": "VisionMaster.Core",
-        "projectPath": "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.Core\\VisionMaster.Core.csproj",
+        "projectPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\VisionMaster.Core.csproj",
         "packagesPath": "C:\\Users\\houzhongjie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\houzhongjie\\CodeBuddy\\20260119143126\\VisionMaster.Core\\obj\\",
+        "outputPath": "D:\\MyWork\\Project Manage\\视觉软件开发测试\\SunVision_Beta_1.0.0.0\\VisionMaster.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

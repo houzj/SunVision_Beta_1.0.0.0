@@ -65,7 +65,7 @@ namespace VisionMaster.DeviceDriver
         {
             if (!IsConnected)
             {
-                Logger.LogError("设备未连接，无法获取图像", "Device not connected");
+                Logger.LogError("设备未连接，无法获取图像");
                 return null;
             }
 
@@ -101,7 +101,7 @@ namespace VisionMaster.DeviceDriver
         {
             if (!IsConnected)
             {
-                Logger.LogError("设备未连接，无法开始连续采集", "Device not connected");
+                Logger.LogError("设备未连接，无法开始连续采集");
                 return false;
             }
 

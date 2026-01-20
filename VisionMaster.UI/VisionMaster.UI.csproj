@@ -8,4 +8,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VisionMaster.Core\VisionMaster.Core.csproj" />
+    <ProjectReference Include="..\VisionMaster.Algorithms\VisionMaster.Algorithms.csproj" />
+    <ProjectReference Include="..\VisionMaster.Workflow\VisionMaster.Workflow.csproj" />
+    <ProjectReference Include="..\VisionMaster.DeviceDriver\VisionMaster.DeviceDriver.csproj" />
+    <ProjectReference Include="..\VisionMaster.PluginSystem\VisionMaster.PluginSystem.csproj" />
+  </ItemGroup>
+
 </Project>

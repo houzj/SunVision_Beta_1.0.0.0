@@ -1,15 +1,32 @@
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.DeviceDriver.deps.json
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.DeviceDriver.dll
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.DeviceDriver.pdb
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.Core.dll
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.Core.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.csproj.AssemblyReference.cache
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.GeneratedMSBuildEditorConfig.editorconfig
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.AssemblyInfoInputs.cache
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.AssemblyInfo.cs
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.csproj.CoreCompileInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.sourcelink.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.DeviceDriver.deps.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.DeviceDriver.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.DeviceDriver.pdb
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.Core.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.Core.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMa.7A66CEC5.Up2Date
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\refint\VisionMaster.DeviceDriver.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.DeviceDriver\obj\Debug\net9.0\ref\VisionMaster.DeviceDriver.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.DeviceDriver.deps.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.DeviceDriver.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.DeviceDriver.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.Core.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\bin\Debug\net9.0\VisionMaster.Core.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.csproj.AssemblyReference.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.AssemblyInfoInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.AssemblyInfo.cs
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.csproj.CoreCompileInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.sourcelink.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMa.7A66CEC5.Up2Date
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\refint\VisionMaster.DeviceDriver.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\VisionMaster.DeviceDriver.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.DeviceDriver\obj\Debug\net9.0\ref\VisionMaster.DeviceDriver.dll

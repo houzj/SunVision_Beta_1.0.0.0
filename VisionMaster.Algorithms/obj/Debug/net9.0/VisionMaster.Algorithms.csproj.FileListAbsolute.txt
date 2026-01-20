@@ -8,8 +8,25 @@ c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.AssemblyInfoInputs.cache
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.AssemblyInfo.cs
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.csproj.CoreCompileInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.sourcelink.json
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMa.FA73670C.Up2Date
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\refint\VisionMaster.Algorithms.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Algorithms\obj\Debug\net9.0\ref\VisionMaster.Algorithms.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Algorithms.deps.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Algorithms.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Algorithms.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Core.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\bin\Debug\net9.0\VisionMaster.Core.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.csproj.AssemblyReference.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.AssemblyInfoInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.AssemblyInfo.cs
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.csproj.CoreCompileInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.sourcelink.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMa.FA73670C.Up2Date
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\refint\VisionMaster.Algorithms.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\VisionMaster.Algorithms.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Algorithms\obj\Debug\net9.0\ref\VisionMaster.Algorithms.dll

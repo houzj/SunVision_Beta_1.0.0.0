@@ -1,11 +1,24 @@
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.deps.json
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.dll
-c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.GeneratedMSBuildEditorConfig.editorconfig
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.AssemblyInfoInputs.cache
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.AssemblyInfo.cs
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.csproj.CoreCompileInputs.cache
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.sourcelink.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.deps.json
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.dll
+c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\refint\VisionMaster.Core.dll
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.pdb
 c:\Users\houzhongjie\CodeBuddy\20260119143126\VisionMaster.Core\obj\Debug\net9.0\ref\VisionMaster.Core.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.deps.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\bin\Debug\net9.0\VisionMaster.Core.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.AssemblyInfoInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.AssemblyInfo.cs
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.csproj.CoreCompileInputs.cache
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.sourcelink.json
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\obj\Debug\net9.0\refint\VisionMaster.Core.dll
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\obj\Debug\net9.0\VisionMaster.Core.pdb
+D:\MyWork\Project Manage\视觉软件开发测试\SunVision_Beta_1.0.0.0\VisionMaster.Core\obj\Debug\net9.0\ref\VisionMaster.Core.dll
